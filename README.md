@@ -5,10 +5,10 @@
 - [x] **Adicionar um `README.md` ao criar o repositório**
 - [x] **Utilizar o [Github.dev] para editar o projeto**
 - [ ] **Adicionar um colaborador ao repositório**
-- [ ] **Clonar o repositório em máquinas locais**
-- [ ] **Realizar alterações e commits**
+- [x] **Clonar o repositório em máquinas locais**
+- [x] **Realizar alterações e commits**
 - [ ] **Abrir issues e pull requests**
-- [ ] **Editar o `README.md` utilizando Markdown**
+- [x] **Editar o `README.md` utilizando Markdown**
 
 ---
 
