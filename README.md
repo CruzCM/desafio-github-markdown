@@ -4,10 +4,10 @@
 - [x] **Criar um novo repositório público no GitHub**
 - [x] **Adicionar um `README.md` ao criar o repositório**
 - [x] **Utilizar o [Github.dev] para editar o projeto**
-- [ ] **Adicionar um colaborador ao repositório**
+- [x] **Adicionar um colaborador ao repositório**
 - [x] **Clonar o repositório em máquinas locais**
 - [x] **Realizar alterações e commits**
-- [ ] **Abrir issues e pull requests**
+- [x] **Abrir issues e pull requests**
 - [x] **Editar o `README.md` utilizando Markdown**
 
 ---
